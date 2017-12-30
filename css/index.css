@@ -1,0 +1,122 @@
+*,:after,:before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.title {
+    font-family: 'Cinzel Decorative', cursive;
+}
+
+html {
+    background-image: url(../img/wallp.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body {
+    width: 100%;
+    margin: auto;
+    font-size: 120%;
+    line-height: 1.5;
+    box-sizing: border-box;
+}
+
+.header {
+    font-size: 40px;
+    text-align: center;
+    margin: auto;
+    width: 15%;
+    color: #E8952F;
+    text-shadow: 1px 1px 2px #CB8727;
+    box-sizing: border-box;    
+    text-decoration: none;
+}
+.header a:link {color: #E8952F;text-decoration: none;}
+.header a:visited {color: #E8952F;text-decoration: none;}
+.header a:hover {color: #E8952F;text-decoration: none;}
+.header a:active {color: #E8952F;text-decoration: none;}
+
+.disclaimer {
+    font-family: 'Spectral SC';
+    text-align: center;
+    margin: auto;
+    font-size: 35px;
+    width: 50%;
+    margin-top: 5%;
+    color: #E8BC67;
+    text-shadow: 1px 1px 2px #CB8727;
+    margin-bottom: 1px;
+}
+
+.post-title {
+    width: 70%;
+    text-align: left;
+    margin: auto;
+    font-weight: 700;
+    font-size: 30px;
+    color: #E8BC67;
+    text-shadow: 1px 1px 2px #CB8727;
+}
+
+.post-text {
+    width: 70%;
+    text-align: left;
+    word-wrap: break-word;
+    margin: auto;
+    font-size: 20px;
+    color: #E8BC67;
+    text-shadow: 1px 1px 2px #CB8727;
+}
+
+.post-link {
+    font-family: 'Roboto';
+    width: 70%;
+    text-align: left;
+    margin: auto;
+    font-size: 20px;
+    font-weight: 600;
+    color: #8A2424; 
+}
+.post-link a:link {color: #8A2424;}
+.post-link a:visited {color: #8A2424;}
+.post-link a:hover {color: #8A2424;}
+.post-link a:active {color: #8A2424;}
+
+.guild-icon {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 5%;
+    height: 15%;
+}
+
+.menu {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.divider {
+    border: 0;
+    margin: 1.35em auto;
+    max-width: 80%;
+    background-position: 50%;
+    box-sizing: border-box;
+    height: 6px;
+    background-image: radial-gradient(
+        closest-side,
+        hsla(34, 75%, 54%, 1),
+        hsla(0, 0%, 50%, 0) 100%);
+    position: relative;
+}
+
+.not-found {
+    margin: auto;
+    position: absolute;
+    top: 25%;
+    left: 25%;
+    height: 80%;
+    width: 50%;
+}
