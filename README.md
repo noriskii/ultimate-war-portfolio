@@ -22,7 +22,7 @@ Inicialmente precisavamos de uma solução rápida, que no caso, foi o site que 
 
 #### Obrigado por todo o Suporte! Ultimate War
 
-![Banner](https://i.imgur.com/dIE6ZBp.png)
+![Banner](https://i.imgur.com/RaaJoqH.png)
 
 ##### Procure-nos no BlackDesert SA.
 
